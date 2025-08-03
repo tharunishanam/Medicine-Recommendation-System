@@ -1,5 +1,8 @@
 # Medicine-Recommendation-System
 This project offers a Personalized Medical Recommendation System that helps users better understand and manage their health. By analyzing symptoms provided by users, it accurately predicts potential conditions using machine learning. Here’s what makes this system unique:
+## Project Architecture
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/cd802161-570d-441e-babd-305afce35837" />
+
 
 Key Features:
 
